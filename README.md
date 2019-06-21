@@ -1,3 +1,6 @@
+### video-app 
+It is a web video application to search youtube videos.
+
 In the project directory, you can run:
 
 ### `npm start`
